@@ -1,2 +1,2 @@
-print "Hello, World!"
-print "Kacper, Vasil, Martyna"
+print("Hello, World!")
+print("Kacper, Vasil, Martyna")
